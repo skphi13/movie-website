@@ -1,7 +1,9 @@
-Project 1: Movie Trailer Website
+# Project 1: Movie Trailer Website
 by Phu Phang
 
-This project consists for the following files:
+
+
+# This project consists for the following files:
 
     entertainment_center.py - main Python script to run
     media.py - contains the class Movie that stores movie details
